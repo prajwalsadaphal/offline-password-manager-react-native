@@ -1,0 +1,5 @@
+export const IS_AUTHENTICATED = "IS_AUTHENTICATED"
+export const SET_USER = "SET_USER" 
+export const CREATE_PASSWORD = "CREATE_PASSWORD"
+export const LOAD_PASSWORD = "LOAD_PASSWORD"
+export const LOG_OUT = "LOG_OUT"
